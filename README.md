@@ -1,7 +1,7 @@
 # 📊 HR Analytics Dashboard (Power BI)
 
 ## 🧾 Overview
-This project is an interactive **HR Analytics Dashboard** built using **Microsoft Power BI**. It helps analyze employee data and provides insights into workforce trends, attrition, and gender diversity.
+This project is an interactive **HR Analytics Dashboard ( VEDAKARNA )** built using **Microsoft Power BI**. It helps analyze employee data and provides insights into workforce trends, attrition, and gender diversity.
 
 ---
 
