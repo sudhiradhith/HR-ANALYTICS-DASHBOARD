@@ -2,7 +2,6 @@
 
 ## 🧾 Overview
 This project is an interactive **HR Analytics Dashboard ( VEDAKARNA )** built using **Microsoft Power BI**. It helps analyze employee data and provides insights into workforce trends, attrition, and gender diversity.
-
 ---
 
 ## 🎯 Objectives
@@ -11,7 +10,6 @@ This project is an interactive **HR Analytics Dashboard ( VEDAKARNA )** built us
 - Measure gender diversity (50-50 equality KPI)  
 - Evaluate workforce trends and performance  
 - Support data-driven HR decisions
-- 
 ---
 
 ## 📊 Features
@@ -24,15 +22,12 @@ This project is an interactive **HR Analytics Dashboard ( VEDAKARNA )** built us
   - Bar Charts (Department-wise analysis)  
   - Pie Charts (Gender distribution)  
   - Line Charts (Trend analysis)
- 
 ---
 
 ## 🛠️ Tools & Technologies
 - Microsoft Power BI  
 - Power Query (Data Cleaning)  
 - DAX (Data Analysis Expressions)  
-
-
 ---
 
 ## 📈 Insights
@@ -40,7 +35,6 @@ This project is an interactive **HR Analytics Dashboard ( VEDAKARNA )** built us
 - Analyze gender distribution  
 - Track workforce trends over time  
 - Compare employee performance  
-
 ---
 
 ## 🔮 Future Enhancements
@@ -48,17 +42,14 @@ This project is an interactive **HR Analytics Dashboard ( VEDAKARNA )** built us
 - Integrate real-time data  
 - Include employee satisfaction metrics  
 - Deploy dashboard to Power BI Service  
-
 ---
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork and submit pull requests.
-
 ---
 
 ## 📄 License
 This project is licensed under the Apache 2.0 License.
-
 ---
 
 ## 👤 Author
